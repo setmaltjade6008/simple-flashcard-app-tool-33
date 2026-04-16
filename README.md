@@ -1,2 +1,9 @@
-# simple-flashcard-app-tool-33
-A simple flashcard app project
+# Flashcard App
+
+A simple flashcard app project.
+\n
+## Getting Started
+
+```bash
+python flashcard.py
+```
